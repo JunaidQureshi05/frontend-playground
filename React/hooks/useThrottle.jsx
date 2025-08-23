@@ -14,7 +14,7 @@ export default function useThrottle(value, interval = 500) {
       setThrottledValue(value);
     } else {
       window.timerId = setTimeout(() => {
-        lastExecutionTime.current = now;
+        lastExecutionTime.current = Date.now();
         setThrottledValue(value);
       }, interval);
       () => clearTimeout(window.timerId);
