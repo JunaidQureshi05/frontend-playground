@@ -1,0 +1,14 @@
+01] What is React, and what are its main features?
+02] What is JSX and how does it work? 
+03] Explain the concept of the Virtual DOM in React.
+04] How does virtual DOM in React work? What are its benefits and downsides?
+05] What is the difference Between React Node, React Element, and React Component?
+06] What are React Fragments used for?
+07] What is the purpose of the key prop in React?
+08] What is the consequence of using array indices as keys in React?
+09] What are props in React? How are they different from state?
+10] What is the difference between React's class components and functional components?
+11] When should you use a class component over a function component?
+12] What is React Fiber?
+13] What is reconciliation?
+14] What is the difference between Shadow DOM and Virtual DOM?
