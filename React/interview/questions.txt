@@ -18,3 +18,10 @@
 18] What is the difference between createElement and cloneElement?
 19] What is the role of PropTypes in React?
 20] What are stateless components?
+21] What are stateful components?
+22] What are the recommended ways for type checking of React component props?
+23] Why does React recommend against mutating state?
+24] What are the benefits of using hooks in React?
+26] What is the difference between useEffect and useLayoutEffect in React?
+27] What does the dependency array of useEffect affect?
+28] What is the useRef hook in React and when should it be used?
