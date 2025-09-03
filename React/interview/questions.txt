@@ -12,3 +12,9 @@
 12] What is React Fiber?
 13] What is reconciliation?
 14] What is the difference between Shadow DOM and Virtual DOM?
+15] What is the difference between Controlled and Uncontrolled React components?
+16] How would you lift the state up in a React application, and why is it necessary?
+17] What are Pure Components?
+18] What is the difference between createElement and cloneElement?
+19] What is the role of PropTypes in React?
+20] What are stateless components?
