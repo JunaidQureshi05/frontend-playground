@@ -41,3 +41,29 @@
 42] What is code splitting in a React application?
 43] How would one optimize the performance of React contexts to reduce rerenders?
 44] What is the Flux pattern?
+45] Explain one-way data flow of React
+46] What are some pitfalls of using context in React?
+47] What are some React anti-patterns?
+48] How do you decide between using React state, context, and external state managers?
+49] Explain what happens when setState is called in React?
+50] Explain prop drilling
+51] Describe lazy loading in React
+52] Discuss synthetic events in React
+53] Explain the React component lifecycle methods in class components.
+54] What is Concurrent Mode in React, and how does it improve rendering performance?
+55] How does React handle concurrent rendering with multiple updates and prioritize them?
+56] How would you handle long-running tasks or expensive computations in React applications without blocking the UI?
+57] Explain server-side rendering of React applications and its benefits
+58] Explain static generation of React applications
+59] What are higher-order components in React?
+60] Explain the presentational vs container component pattern in React
+61] What are render props in React?
+62] Explain the composition pattern in React.
+63] How do you re-render the view when the browser is resized?
+64] How do you handle asynchronous data loading in React applications?
+65] What are some common pitfalls when doing data fetching in React?
+66] What is a React Router?
+67] How does React Router work, and how do you implement dynamic routing?
+68] How do you handle nested routes and route parameters in React Router?
+69] What is the difference between BrowserRouter and HashRouter?
+70] How React Router is different from the history library?
