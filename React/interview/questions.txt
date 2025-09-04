@@ -25,7 +25,7 @@
 26] What is the difference between useEffect and useLayoutEffect in React?
 27] What does the dependency array of useEffect affect?
 28] What is the useRef hook in React and when should it be used?
-29] What is the purpose of callback function argument format of setState() in React class components and when should it be used?
+29] What is the purpose of callback function argument format of setState() in React class       components and when should it be used?
 30] What is the useCallback hook in React and when should it be used?
 31] What is the useMemo hook in React and when should it be used?
 32] What is the useReducer hook in React and when should it be used?
@@ -33,3 +33,11 @@
 34] Can you explain how to create and use custom hooks in React?
 35] What does re-rendering mean in React?
 36] What is forwardRef() in React used for?
+37] What are error boundaries in React for?
+38] What is React Suspense?
+39] Explain what React hydration is?
+40] What are React Portals used for?
+41] What is React strict mode and what are its benefits?
+42] What is code splitting in a React application?
+43] How would one optimize the performance of React contexts to reduce rerenders?
+44] What is the Flux pattern?
